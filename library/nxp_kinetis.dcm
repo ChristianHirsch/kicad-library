@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MKW41Z256
+D A Bluetooth Low Energy, IEEE Standard 802.15.4, Generic FSK System on a Chip (SoC)
+K ARM Cortex-M0+, Bluetooth Low Energy, IEEE 802.15.4
+F http://www.nxp.com/assets/documents/data/en/data-sheets/MKW41Z512.pdf
+$ENDCMP
+#
+#End Doc Library
